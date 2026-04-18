@@ -32,10 +32,30 @@ Adoro assistir animes e futebol (Corinthiano desde o berço). <br>
 
 <h2 align="left"> Ferramentas </h2>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=git,github,c,python,html,css,javascript,vscode" />
+ <img src="https://skillicons.dev/icons?i=git,github,c,python,html,css,bootstrap,javascript,vscode" />
+  <br>
 </div>
 
 <h2 align="left"> Ferramentas (Mainframe)</h2>
+
+<div align="center">
+  <img src="cobol.png" height="60" width="60" alt="cobol"/>
+  &nbsp;
+  <img src="JCL.png" height="60" width="70" alt="JCL"/>
+  &nbsp;
+  <img src="IBM Z_OS.png" height="60" width="60" alt="IBM z/OS"/>
+   &nbsp;
+  <img src="zowe.png" height="60" width="60" alt="Zowe framework"/>
+  &nbsp;
+  <br>
+  <h4>TSO (Time Sharing Option) ISPF (Interactive System Productivity Facility)</h4>
+</div>
+
+<h2 align="left"> Atualmente estudando</h2>
+  <img src="https://skillicons.dev/icons?i=django,python,mysql,sqlite" />
+<div align="center">
+  
+</div>
 
 <!--
 **LeviTemoteo/LeviTemoteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
