@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="200" src="futurefunk2.gif"/>
+</div>
+
 ## Hi there 👋
 
 <!--
