@@ -30,13 +30,13 @@ Adoro assistir animes e futebol (Corinthiano desde o berço). <br>
   <br>
   <br>
 
-<h2 align="left"> Ferramentas </h2>
+<h2 align="center"> Ferramentas </h2>
 <div align="center">
  <img src="https://skillicons.dev/icons?i=git,github,c,python,html,css,bootstrap,javascript,vscode" />
   <br>
 </div>
 
-<h2 align="left"> Ferramentas (Mainframe)</h2>
+<h2 align="center"> Ferramentas (Mainframe)</h2>
 
 <div align="center">
   <img src="cobol.png" height="60" width="60" alt="cobol"/>
@@ -51,7 +51,7 @@ Adoro assistir animes e futebol (Corinthiano desde o berço). <br>
   <h4>TSO (Time Sharing Option) ISPF (Interactive System Productivity Facility)</h4>
 </div>
 
-<h2 align="left"> Atualmente estudando</h2>
+<h2 align="center"> Atualmente estudando</h2>
   <img src="https://skillicons.dev/icons?i=django,python,mysql,sqlite" />
 <div align="center">
   
