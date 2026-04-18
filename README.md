@@ -1,17 +1,18 @@
+<hr>
 <div align="center">
   <img height="200" src="futurefunk2.gif"/>
 </div>
 
-<h1 align="center">Olá, como vai?</h1>
+<h1 align="center">Olá, como vai? 👋</h1>
 
 <p align="center"> Eu sou o Levi e estudo na Fatec do Bom Retiro (Fatec-SP)</p>
 
 <h2 align="left"> Sobre Mim </h2>
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas desde Jan/2025, procurando atuar como desenvolvedor Back-end ou Mainframe. <br>
-Dedico meu tempo estudando sobre assuntos de meu interesse, mesmo que complexos como arquitetura IBM z/OS. 
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas desde Jan/2025, procurando atuar como desenvolvedor Back-end ou Mainframe. <br>
+🎨 Dedico meu tempo estudando sobre assuntos de interesse, mesmo que complexos como arquitetura IBM Z. 
 
-Eu gosto de jogos, principalmente os difíceis (Geometry Dash). <br>
-Adoro assistir animes e futebol (Corinthiano desde o berço). <br>
+♟ Eu gosto de jogos, principalmente os difíceis (🎼 Geometry Dash). <br>
+⚽ Adoro assistir animes e futebol (Corinthiano desde o berço). <br>
 <br>
 </p>
 
@@ -54,8 +55,24 @@ Adoro assistir animes e futebol (Corinthiano desde o berço). <br>
 <h2 align="center"> Atualmente estudando</h2>
   <img src="https://skillicons.dev/icons?i=django,python,mysql,sqlite" />
 <div align="center">
-  
 </div>
+
+<h2 align="center"> Minhas certificações</h2>
+<div align= "center">
+  <a href="https://www.credly.com/badges/1436429e-a599-465b-b673-a15611c8575d/public_url">
+    <img src="ibmz101.png" height="200" width="200">
+  </a>
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  
+  <a href="https://www.credly.com/badges/74842d7d-e43f-430e-afcd-e9640f46f99c/public_url">
+    <img src="ibm-z-os-mainframe-practitioner.png" height="200" width="200">
+  </a>
+</div>
+<hr>
+<p align="center">Let's go Ahead!</p>
 
 <!--
 **LeviTemoteo/LeviTemoteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
