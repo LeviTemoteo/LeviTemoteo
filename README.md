@@ -8,7 +8,7 @@
 <p align="center"> Eu sou o Levi e estudo na Fatec do Bom Retiro (Fatec-SP)</p>
 
 <h2 align="left"> Sobre Mim </h2>
-<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas desde Jan/2025, procurando atuar como desenvolvedor Back-end ou Mainframe. <br>
+<p align="left">🎓 Estudante de Análise e Desenvolvimento de Sistemas desde Jan/2025, procurando atuar como Engenheiro de Dados. <br>
 🎨 Dedico meu tempo estudando sobre assuntos de interesse, mesmo que complexos como arquitetura IBM Z. 
 
 ♟ Eu gosto de jogos, principalmente os difíceis (🎼 Geometry Dash). <br>
