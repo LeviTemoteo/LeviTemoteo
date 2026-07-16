@@ -19,7 +19,7 @@
 <h2 align="center"> Contatos </h2>
 
 <div align="center">
-  <a href="www.linkedin.com/in/levi-temóteo-37437134a" target="_blank">
+  <a href="www.linkedin.com/in/levi-temoteo-37437134a" target="_blank">
    <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge">
   </a>
   <a href="https://www.instagram.com/levialvestemoteo/" target="_blank">
