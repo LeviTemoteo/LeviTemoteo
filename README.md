@@ -71,8 +71,6 @@
     <img src="ibm-z-os-mainframe-practitioner.png" height="200" width="200">
   </a>
 </div>
-<hr>
-<p align="center">Let's go Ahead!</p>
 
 <!--
 **LeviTemoteo/LeviTemoteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
